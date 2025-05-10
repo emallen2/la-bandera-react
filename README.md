@@ -45,7 +45,7 @@ This project uses **GitHub Pages** for deployment.
 
 ### Setup `package.json`
 ```json
-"homepage": "https://your-username.github.io/la-bandera-react",
+"homepage": "https://emallen2.github.io/la-bandera-react",
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
@@ -56,7 +56,7 @@ This project uses **GitHub Pages** for deployment.
 ```bash
 npm run deploy
 ```
-Then visit: `https://your-username.github.io/la-bandera-react`
+Then visit: `https://emallen2.github.io/la-bandera-react`
 
 ---
 
