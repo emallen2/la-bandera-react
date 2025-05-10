@@ -29,7 +29,7 @@ function Home() {
             <div>
               <h1 className="K2D">Welcome to La Bandera</h1>
               <p>Authentic Dominican flavors, made with love.</p>
-              <a href="/menu" className="btn">Explore Menu</a>
+              <Link to="/menu" className="btn">Explore Menu</Link>
             </div>
           </div>
         </div>
@@ -38,7 +38,7 @@ function Home() {
           <div className="slide-text">
             <h1 className="K2D">Taste the Tradition</h1>
             <p>Savor the rich flavors of the Caribbean.</p>
-            <a href="/menu" className="btn">Explore Menu</a>
+            <Link to="/menu" className="btn">Explore Menu</Link>
           </div>
         </div>
         <div className="slide">
@@ -46,7 +46,7 @@ function Home() {
           <div className="slide-text">
             <h1 className="K2D">Feel at Home</h1>
             <p>Where every meal is a celebration.</p>
-            <a href="/menu" className="btn">Explore Menu</a>
+            <Link to="/menu" className="btn">Explore Menu</Link>
           </div>
         </div>
         <div className="slide">
@@ -54,7 +54,7 @@ function Home() {
           <div className="slide-text">
             <h1 className="K2D">Los tres golpes</h1>
             <p>Mashed plantains with eggs, cheese, and salami. One of the best breakfast you will have.</p>
-            <a href="/menu" className="btn">Explore Menu</a>
+            <Link to="/menu" className="btn">Explore Menu</Link>
           </div>
         </div>
         <div className="slide">
@@ -62,7 +62,7 @@ function Home() {
           <div className="slide-text">
             <h1 className="K2D">Tostones</h1>
             <p>Fried Plantains made with a lot of love.</p>
-            <a href="/menu" className="btn">Explore Menu</a>
+            <Link to="/menu" className="btn">Explore Menu</Link>
           </div>
         </div>
         <div className="slide">
@@ -70,7 +70,7 @@ function Home() {
           <div className="slide-text">
             <h1 className="K2D">Habichuelas con Dulce</h1>
             <p>A dessert that brings people together.</p>
-            <a href="/menu" className="btn">Explore Menu</a>
+            <Link to="/menu" className="btn">Explore Menu</Link>
           </div>
         </div>
       </div>
